@@ -6,7 +6,8 @@ Jag heter Emanuel och studerar **Datavetenskap – Webbprogrammering** vid Linn�
 ## Projekt
 **Portfolio**
 (Under utveckling)
-* REST-API med OAuth-skyddad datavisualisering. - 7M datapunkter från Socialstyrelsens dataset om ddödsfall med ålder, diagnos och annan data. 
+* REST-API med OAuth-skyddad datavisualisering. - 7M datapunkter från Socialstyrelsens dataset om ddödsfall med ålder, diagnos och annan data. (Kräver Gmail eller GitHub) <br>
+  -> https://wt.emanuelapps.duckdns.org/
 * Stickmönsterkonverterare på klientsidan. - Översätter bild/logga till mönster och ger användaren möjlighet till att få en förhandsgranskning samt möjlighet att justera mönstret.
 
 **Nuvarande lab-miljö:**
