@@ -11,8 +11,9 @@ Jag heter Emanuel och studerar **Datavetenskap – Webbprogrammering** vid Linn�
 * Stickmönsterkonverterare på klientsidan. - Översätter bild/logga till mönster och ger användaren möjlighet till att få en förhandsgranskning samt möjlighet att justera mönstret.
 
 **Nuvarande lab-miljö:**
-Raspberry Pi med mediaservers, VPN, Cloud backup, adGuard som DNS-skyddslager för IoT-produkter och servermiljö för driftsättning av testapplikationer. 
-
+Raspberry Pi med mediaservers, VPN, Cloud backup, adGuard som DNS-skyddslager för IoT-produkter och servermiljö för driftsättning av testapplikationer. <br>
+Säkerhetslager som honeypot fron Canary Tokens, rate-limits, IP-bans m.m. samt kontroll-skannad med Lynis för säkerhetskontroll.
+<br>
 **Framtida additioner till lab:**
 OCR-scanner av bilder på kvitton för budget och matpris-tracking.
 Installera 2B LLM att laborera med samt förbättring av scanningsflödena.
