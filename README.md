@@ -8,6 +8,9 @@ Jag heter Emanuel och studerar **Datavetenskap – Webbprogrammering** vid Linn�
 (Under utveckling)
 * REST-API med OAuth-skyddad datavisualisering. - 7M datapunkter från Socialstyrelsens dataset om ddödsfall med ålder, diagnos och annan data. (Kräver Gmail eller GitHub) <br>
   -> https://wt.emanuelapps.duckdns.org/
+* IoT-Assignment. - Publik Wokwi som sänder via mqtt (publik broker nu pga risk med credential-exponering via publika wokwi) dashboard i Node-RED med historik lagrad och hämtad från InfluxDB. <br>
+  Wokwi: https://wokwi.com/projects/463813911650872321 <br>
+  Dashboard: https://iot.emanuelapps.duckdns.org/dashboard/page1
 * Stickmönsterkonverterare på klientsidan. - Översätter bild/logga till mönster och ger användaren möjlighet till att få en förhandsgranskning samt möjlighet att justera mönstret.
 
 **Nuvarande lab-miljö:**
