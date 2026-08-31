@@ -11,11 +11,12 @@ Färdiga:
   Dashboard: https://iot.emanuelapps.duckdns.org/dashboard/page1
   
 (Minimum Viable Product, under fortsatt utveckling)
-* REST-API med OAuth-skyddad datavisualisering. - 7M datapunkter från Socialstyrelsens dataset om ddödsfall med ålder, diagnos och annan data. (Kräver Gmail eller GitHub) <br>
+* REST-API med OAuth-skyddad datavisualisering. - 7M datapunkter från Socialstyrelsens dataset om dödsfall med ålder, diagnos och annan data. (Kräver Gmail eller GitHub) <br>
   -> https://wt.emanuelapps.duckdns.org/ <br>
   *Framtida tillägg: Semantisk sökfuntion, Lösa standardstyling som ej klarar dark mode m.m.*
   
 (Under utveckling)
+* Hemsida till Strängnäs Biredskap AB med adminsida för butiksägaren för att själv med lätthet kunna uppdatera öppettider, CRUD produkter med priser, aktivera/inaktivera formulär och notiser m.m.
 * Stickmönsterkonverterare på klientsidan. - Översätter bild/logga till mönster och ger användaren möjlighet till att få en förhandsgranskning samt möjlighet att justera mönstret.
 
 **Nuvarande lab-miljö:**
