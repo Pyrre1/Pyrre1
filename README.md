@@ -17,6 +17,7 @@ Färdiga:
   
 (Under utveckling)
 * Hemsida till Strängnäs Biredskap AB med adminsida för butiksägaren för att själv med lätthet kunna uppdatera öppettider, CRUD produkter med priser, aktivera/inaktivera formulär och notiser m.m.
+  <br>Temporär preview: https://bibutiken.emanuelapps.duckdns.org/
 * Stickmönsterkonverterare på klientsidan. - Översätter bild/logga till mönster och ger användaren möjlighet till att få en förhandsgranskning samt möjlighet att justera mönstret.
 
 **Nuvarande lab-miljö:**
