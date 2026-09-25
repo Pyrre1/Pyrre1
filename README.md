@@ -2,6 +2,7 @@
 
 ## Om mig
 Jag heter Emanuel och studerar **Datavetenskap – Webbprogrammering** vid Linnéuniversitetet (planerad kandidatexamen VT 2027)
+**OBS** håller på och konfigurerar OPNsense-router och ska flytta delar av portfolio hosting till ny dator, men hann inte klart under sommaren.. Nu under flytten ligger portfolion tyvärr nere då plugg tar all tid i anspråk, men hoppas snart vara åter på banan!
 
 ## Projekt
 **Portfolio**<br>
